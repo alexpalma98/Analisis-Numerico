@@ -1,0 +1,7 @@
+Métodos Directos
+1. Gauss
+2.Gauss-Jordan
+
+Métodos Iterativos
+1. Gauss-Seidel
+2. Jacobi
