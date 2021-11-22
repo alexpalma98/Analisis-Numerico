@@ -1,0 +1,6 @@
+Unidad 4 Interpolación
+1. Polinomio de interpolación
+2. Diferencias Divididas de Newton
+3. Interpolación de Lagrange
+4. Trazadores Cúbicos
+5. Interpolación Paramétrica
