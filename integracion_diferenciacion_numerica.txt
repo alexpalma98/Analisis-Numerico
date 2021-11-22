@@ -5,4 +5,4 @@ Unidad 05 Integración y Diferenciación Numérica
 4. Regla de Simpson 3/8
 5. Cuadratura de Gauss
 Diferenciación numérica
-
+1. Diferenciación numérica- tablas con diferencias divididas.
