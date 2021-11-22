@@ -1,0 +1,4 @@
+Unidad 07 EDP Ecuaciones Diferenciales Parciales
+1. Parabólicas
+2. Elípticas
+3. Hiperbólicas
