@@ -1,0 +1,8 @@
+Unidad 05 Integración y Diferenciación Numérica
+1. Integración Numérica
+2. Regla del trapecio
+3. Regla de Simpson 1/3
+4. Regla de Simpson 3/8
+5. Cuadratura de Gauss
+Diferenciación numérica
+
