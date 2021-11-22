@@ -1,0 +1,7 @@
+Unidad 06 EDO – Ecuaciones Diferenciales Ordinarias
+1. EDO usando polinomio de Taylor
+2. Runge Kutta para primera derivada
+3. Runge Kutta para segunda derivada
+4. Sistemas EDO
+
+ 
